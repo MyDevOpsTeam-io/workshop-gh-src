@@ -1,3 +1,5 @@
+![MyDevOpsTeam](https://mydevopsteam.io/wp-content/uploads/2022/05/MyDevOpsTeam-Logo.png)
+
 # Tools
 
 To build hugo site locally, execute the script via:

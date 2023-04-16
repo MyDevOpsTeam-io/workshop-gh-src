@@ -1,6 +1,5 @@
 ---
 title: "Agenda overview"
-chapter: true
 weight: 1
 ---
 

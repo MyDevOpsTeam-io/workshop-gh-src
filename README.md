@@ -85,3 +85,7 @@ sudo pip3 install pre-commit
 ```bash
 pre-commit install
 ```
+
+## Code Of Conduct
+
+Please check read our [code-of-conduct](CODE-OF-CONDUCT.md)

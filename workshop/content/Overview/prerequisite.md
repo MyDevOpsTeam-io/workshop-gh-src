@@ -1,12 +1,14 @@
 ---
 title: "Pre-requisites"
 chapter: true
-weight: 1
+weight: 2
 ---
 
 ![MyDevOpsTeam](/images/MyDevOpsTeam-Logo.png?width=20pc)
 
-This Lab will mostly use **Linux** as Operating System to apply automations and scripting. Readers must have the following pre-requisites to begin:
+This Lab will mostly use **Linux** as Operating System to apply automations and scripting.
+
+Readers must have the following pre-requisites to begin:
 
 1. **Linux** machine or **WSL (Windows SubSystem for Linux)** on Windows machine. With **MacOS**, atleast bash or basic scripting capability.
 2. Dedication to learn new things.
