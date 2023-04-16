@@ -1,11 +1,4 @@
----
-title: "Creating your first docker container"
-weight: 2
-tags: ["container", "Docker", "basics", "starter"]
----
-
-![MyDevOpsTeam](/images/MyDevOpsTeam-Logo.png?width=20pc)
-![Docker](/images/docker-icon.png?width=15pc)
+# Creating your first docker container
 
 #### Pre-requisites
 
@@ -94,7 +87,3 @@ docker run -it --rm -p 8080:80 my-first-container:latest
 
 8. Now, that your container is up and running. You can access it via: [http://localhost:8080](http://localhost:8080)
 
-
-Source code for lab exercise can be found here at the labs folder: **creating-first-container**
-
-![My First Container](/images/my-first-container.png)

@@ -1,7 +1,7 @@
 ---
 title: "Docker installation"
 weight: 1
-tags: ["container", "basics"]
+tags: ["container", "Docker", "basics"]
 ---
 
 ![MyDevOpsTeam](/images/MyDevOpsTeam-Logo.png?width=20pc)
