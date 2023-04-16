@@ -4,7 +4,7 @@ title = 'MyDevOpsTeam WorkShops'
 theme = 'hugo-theme-learn'
 
 [params]
-  editURL = "https://github.com/MyDevOpsTeam-io/workshop-gh-src/"
+  editURL = "https://github.com/MyDevOpsTeam-io/workshop-gh-src/tree/master/workshop/content/"
   # Author of the site, will be used in meta information
   author = "mydevopsteam.io"
   # Description of the site, will be used in meta information
