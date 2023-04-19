@@ -7,7 +7,7 @@ if [ $is_docker -eq 0 ]; then
         echo "[*] Compiling hugo site...."
         docker run --rm -it \
             -v $(pwd):/src \
-            klakegg/hugo:0.107.0-ext-ubuntu-onbuild \
+            klakegg/hugo:0.107.0-ext-ubuntu \
             --gc \
             --minify \
             --baseURL "https://workshops.mydevopsteam.io"
