@@ -13,4 +13,6 @@ This video is a story of two companies doing an e-commerce website.
 The first company is doing it ***without DevOps*** and is in **chaos**, while the other one in a **parallel world is doing DevOps and is smooth sailing**.
 
 
+Next is the **DevSecOps** End-to-End demonstration.
+
 {{% children showhidden="false" %}}
